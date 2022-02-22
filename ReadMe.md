@@ -1,12 +1,12 @@
 Description
 ---
-<p>A system for tracking supporters of PDPLBN candidates in the municipality of Nabua, Camarines Sur.</p>
+<p>A system for recording supporters of PDPLBN candidates in the municipality of Nabua, Camarines Sur.</p>
 
 Installation
 --
 <ol>
     <li>
-        Download and install <a href="https://www.apachefriends.org/download.html" target="_blank">XAMPP Version 7.4</a>.
+        Download and install <a href="https://www.apachefriends.org/download.html" target="_blank">XAMPP</a>.
     </li>
     <li>
         Clone or download this repository to the <code>xampp/htdocs</code> folder.<br>
