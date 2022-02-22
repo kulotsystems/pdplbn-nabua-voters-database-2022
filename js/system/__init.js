@@ -1,6 +1,6 @@
 /****************************************************************************************************
  * @file __init.js
- * @description System template using Object Oriented Programming approach
+ * @description System template
  * @author Arvic S. Babol
  * @support Kulot Systems (kulotsystems@gmail.com)
 

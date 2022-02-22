@@ -21,7 +21,6 @@ ListBody.prototype.__create = function() {
     var ajaxData = {};
     ajaxData['create_' + tab.model.toLowerCase()] = true;
 
-    console.log(ajaxData);
 
     // ListBody.__create() :: Disable listHeader buttons and nitiate AJAX request!
     Pace.restart();
