@@ -1,6 +1,6 @@
 Description
 ---
-<p>A system for recording supporters of PDPLBN candidates in the municipality of Nabua, Camarines Sur.</p>
+<p>A system for recording supporters of PDPLBN candidates in the municipality of Nabua, Camarines Sur for 2022 presidential election.</p>
 
 Installation
 --
