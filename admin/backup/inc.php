@@ -39,6 +39,10 @@
             $query = 'SELECT * FROM ' . $table;
             if(in_array($table, $except))
                 $query .= " WHERE 0";
+            else if($table == 'ph_citizens')
+                $query .= " WHERE `ID` NOT IN(12662, 15502, 15505, 18263)";
+            else if($table == 'followers')
+                $query .= " WHERE `ID` NOT IN(11729, 14422, 14426, 16971)";
 
             $result = $mysqli->query($query);
             $fields_amount = $result->field_count;
